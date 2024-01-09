@@ -1,0 +1,126 @@
+body{
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: rgb(243, 245, 250);
+}
+div h1{
+    color: rgb(12, 108, 218);
+    font-size: 60px;
+    margin-left: 220px;
+}
+
+div p{
+    /* margin-top: -5px; */
+    font-size: 23px;
+    margin-top: -30px;
+    margin-left: 220px;
+}
+#email{
+    
+    width: 340px;
+    height: 43px;
+    border-radius: 5px;
+    border-width: 0.1px;
+    border-color: rgb(170, 168, 168);
+    font-size: medium;
+    padding-left: 20px;
+    
+}
+
+
+#mail{
+    padding-top: 23px;
+}
+#pass{
+    font-size: medium;
+    margin-top: -5px;
+    padding-left: 20px;
+    width: 340px;
+    height: 43px;
+    border-radius: 5px;
+    border-width: 0.1px;
+    border-color: rgb(170, 168, 168)
+    
+}
+#log{
+    margin-top: 18px;
+    width: 360px;
+    height: 45px;
+    background-color: rgb(12, 108, 218);
+    border: 0px;
+    border-radius: 5px;
+}
+#lin{
+    text-decoration: none;
+    color: white;
+    font-size: 22px;
+    font-weight: bold;
+}
+#forgot{
+    margin-top: 18px;
+    text-decoration: none;
+    font-size: 17px;
+}
+hr{
+    margin-top: 20px;
+    width: 370px;
+    
+}
+#fpass{
+    text-decoration: none;
+    font-size: smaller;
+    color: rgb(12, 108, 218);
+}
+#fpass:hover{
+    text-decoration: underline;
+    
+}
+#button{
+    text-decoration: none;
+    color: white;
+    font-weight: bold;
+    font-size: larger;
+}
+#new{
+    margin-top: 20px;
+    height: 43px;
+    width: 190px;
+    border: 0px;
+    border-radius: 5px;
+    background-color: rgb(76, 184, 76);
+    
+}
+#new:hover{
+    background-color: rgb(42, 160, 42);
+}
+#main{
+    
+    margin-top: 200px;
+    margin-left: 30px;
+}
+
+#sub{
+    /* display: inline-block; */
+    margin-top: -230px;
+    margin-left: 750px;
+    background-color: white;
+    width: 400px;
+    height: 350px;
+    text-align: center;
+    border-radius: 10px;
+    box-shadow: 1px 1px 15px -8px;
+    
+}
+#last{
+    color: black;
+    text-decoration: none;
+    font-weight: bold;
+}
+#last:hover{
+    text-decoration: underline;
+}
+#least{
+    margin-left: 810px;
+    margin-top: 25px;
+    font-size: 14px;
+}
+
